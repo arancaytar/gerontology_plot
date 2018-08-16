@@ -1,0 +1,11 @@
+This sawtooth plot shows the age of the oldest living person (known to the [Gerontology Research Group](https://en.wikipedia.org/wiki/Gerontology_Research_Group)) at every point in the past sixty years.
+
+Data source: [Gerontology Wiki](http://gerontology.wikia.com/wiki/Main_Page)
+
+Plotting: Python, MatPlotLib
+
+The raw data and plotting code are available at https://github.com/arancaytar/gerontology_plot.
+
+[Labeled version (SVG)](https://arancaytar.github.io/gerontology_plot/plot-labeled.svg)
+
+The records for the oldest verified person ever and the most enduring title-holder go to Jeanne Calment, who was the oldest living person for over nine years, and is the only human known to have lived for more than 120 years. Most recently, Nabi Tajima died at 117 a few days ago, and is succeeded by Chiyo Miyako.
